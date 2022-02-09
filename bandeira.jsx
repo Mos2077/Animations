@@ -1,0 +1,11 @@
+drawBox(red);
+drawBox(red);
+drawBox(red);
+newLine();
+drawBox(blue);
+drawBox(blue);
+drawBox(blue);
+newLine();
+drawBox(white);
+drawBox(white);
+drawBox(white);
